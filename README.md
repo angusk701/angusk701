@@ -4,7 +4,7 @@
 ## ➡️ About Me
 
 - 👋 Hi, I'm Angus! I'm a Full-stack/AI Developer.
-- 🎓 BEng Computer Science with a Business Minor @ The Hong Kong University of Science & Technology
+- 🎓 BEng Computer Science with a Business Minor @ The Hong Kong University of Science & Technology.
 - 🎯 I love building web and AI applications!
 
 ## ✅ Languages and Frameworks
