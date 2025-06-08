@@ -1,10 +1,10 @@
 # Hi there, I'm Angus 👋
-## BEng Computer Science with a Business Minor @ The Hong Kong University of Science and Technology
+## BEng in Computer Science with a Business Minor @ The Hong Kong University of Science and Technology
 
 ## ➡️ About Me
 
 - 👋 Hi, I'm Angus! I'm a Full-stack/AI Developer.
-- 🎓 BEng Computer Science with a Business Minor @ The Hong Kong University of Science & Technology.
+- 🎓 BEng in Computer Science with a Business Minor @ The Hong Kong University of Science & Technology.
 - 🎯 I love building web and AI applications!
 
 ## ✅ Languages and Frameworks
